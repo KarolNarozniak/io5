@@ -32,6 +32,7 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@v3.1.0
         with:
           args: >
+            -Dsonar.host.url=https://sonarcloud.io
             -Dsonar.projectKey=KarolNarozniak_io5
             -Dsonar.organization=karolnarozniak
             -Dsonar.java.binaries=target
