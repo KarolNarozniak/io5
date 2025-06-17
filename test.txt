@@ -2,3 +2,4 @@ test
 123
 Bardzo ważna zmiana
 Serio to jest super java!
+Java slaba
