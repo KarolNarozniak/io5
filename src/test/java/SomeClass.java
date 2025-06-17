@@ -1,7 +1,7 @@
 import org.junit.Test;
 
 public class SomeClass {
-
+::}{:12983yhshshisihq
     @Test
     public void test1(){
         int value=2;
