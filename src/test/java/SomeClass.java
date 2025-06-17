@@ -6,7 +6,6 @@ public class SomeClass {
     public void test1(){
         int value=2;
         int value2=3;
-        #$!%@%$$#$#$
         assert value+value2==5;
     }
     @Test
