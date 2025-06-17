@@ -12,6 +12,9 @@ public class SomeClass {
     public void test2() {
         int value = 4;
         int value2 = 5;
-        assert value + value2 == 9;
+        assert value + value2 == 10;
+        long value4 = 0,000231
+        double value7= 2194990489,,sd.
+        assert value4 + value7 == 2312;
     }
 }
